@@ -2,13 +2,11 @@
 layout: about
 permalink: /
 profile:
-  align: right
+  align: left
   image: profile.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Here's a demonstration of replacing the main content. You should link from this content to at least one external site: for instance, you might mention your affiliation with [Texts & Technology](https://cah.ucf.edu/textstech/).
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+As you add content, watch your Markdown extension for errors - it should give you an update whenever you add something that doesn't align with the syntax. You can click the "!" in the triangle at the bottom of your VSC to see the error information and make changes, and you can also see your live preview and look for problems. Not all errors will be relevant to you, so decide how you feel about the results based on the preview!
